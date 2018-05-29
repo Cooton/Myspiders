@@ -1,0 +1,557 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=gb2312" />
+<title>广州市网站目录-广东(Guangdong)-地区目录-DMOZ目录</title>
+<meta http-equiv="Content-Language" content="zh-cn" />
+<meta http-equiv="pragma" content="no-cache" />
+<meta name="keywords" content="广州市网站目录,广东,DMOZ目录,DMOZ分类目录,网站提交,网站收录,网站目录,网站登录,网址提交,中文网站目录" />
+<meta name="description" content="广州市网站目录,广东,Guangdong,DMOZ目录,优秀网站目录分享网站价值,提供中文网站DMOZ目录网站提交,网站收录,网址大全,目录检索,网站关键字搜索功能,DMOZ目录欢迎您登录提交网站" />
+<meta name="charset" content="gb2312" />
+<link href="//img.chinadmoz.org/template/default/css/style.css?v=20140313" rel="stylesheet" type="text/css">
+<link href="//img.chinadmoz.org/template/default/css/perpage.css?v=20130301" rel="stylesheet" type="text/css">
+<script language="javascript" type="text/javascript" src="//img.chinadmoz.org/script/jquery/jquery-1.4.2.min.js"></script>
+<script type="text/javascript" language="javascript" src="//img.chinadmoz.org/script/dialog.min.js?skin=discuz"></script>
+<script language="javascript" type="text/javascript" src="//img.chinadmoz.org/script/common.js?v=20140313"></script>
+<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<meta name="generator" content="CDMOZ v4.5">
+</head>
+<body>
+<div class="header">
+<div class="toplnk">
+
+<div style="float:left; _padding-top:4px;"><form action="/user/checklogin.asp" method="post">会员名 <input name="username" type="text" class="ipt_text" />&nbsp;
+    密码 <input name="userpass" type="password" class="ipt_text" />&nbsp;
+    <input type="submit" value="登录" align="absmiddle" class="ipt_submit" /><input type="hidden" name="action" value="chklogin"><input type="hidden" name="loginmode" value="1"></form>
+</div>
+
+<a href="/user/register.asp" style="color:green;font-weight:bold;">注册我的帐号</a> - <a href="/user/addweb.asp" style="color:red;font-weight:bold;">提交网站</a> - <a href="/help/contactus.asp" style="color:green;font-weight:bold;">联系我们</a> - <a href="/help/">帮助</a> - <a href="javascript:window.external.AddFavorite('http://www.chinadmoz.org/','DMOZ目录');" title="收藏DMOZ目录">加入收藏</a>
+
+</div>
+
+<div class="topper">
+    <h1 class="logo">
+    <a href="http://www.chinadmoz.org/" title="DMOZ目录"><img src="/images/logo.jpg" height="50" alt="DMOZ目录" /></a></h1>
+    <p class="siteurl">广东-广州市(Guangzhou)</p>
+    <div class="search" style="padding-right:10px;padding-top:20px;"><span style="right"><a target="_blank" href="/help/aboutdmoz.asp">DMOZ目录<em></em>共105个分类，63583个优选网站</a></span></div>
+</div>
+
+		<div class="header-col">
+			<span class="l"></span>
+			<span class="r"></span>
+			<div class="menu">
+				<ul class="topmenu">
+					<li class="cur"><a href="http://www.chinadmoz.org/">首页</a></li><li><a href="http://www.chinadmoz.org/industry/">行业目录</a></li><li><a href="http://www.chinadmoz.org/region/">地区目录</a></li><li><a href="http://hao.cdmoz.com" target="_blank">网址大全</a></li><li><a href="http://tool.chinadmoz.org" target="_blank">实用工具</a></li><li><a href="http://www.chinadmoz.org/user/">会员中心</a></li><li><a href="http://www.chinadmoz.org/tag/">标签索引</a></li><li><a href="http://www.chinadmoz.org/archive/">网站归档</a></li><li><a href="http://www.chinadmoz.org/help/">网站帮助</a></li>
+				</ul>
+				<div class="hd-quick fr"><a href="/user/addweb.asp">提交网站</a> ┊ <a href="/help/">帮助</a> ┊ <a href="/help/addsuggest.asp">建议</a></div>
+			</div>
+			
+			<div class="tsch">
+				<div class="tschBox">
+					<form id="searchweb" name="flpage" action="http://search.chinadmoz.org/" name="searchweb" method="get" target="_blank">
+						<input type="text" value="在63583个优秀网站中查找" onblur="this.className='infile ipt_textoff';if(this.value=='') this.value='在63583个优秀网站中查找'" onfocus="this.className='infile ipt_texton';if(this.value=='在63583个优秀网站中查找') this.value=''" class="infile ipt_textoff" id="w" name="w">
+						<button onclick="if((document.searchweb.w.value=='在63583个优秀网站中查找') || (document.searchweb.w.value=='')){alert('请输入搜索关键字！');document.searchweb.w.focus();return false;}" class="ipt_search" type="submit">DMOZ目录搜索</button>
+						<input type="hidden" value="web" name="sc">
+						<input type="hidden" value="w.ptl" name="ch"> 
+					</form>
+				</div>
+				<div class="right">
+				<ul class="tschKey">
+				
+				</ul>
+				</div>
+				<div class="left"><a target="_blank" href="/help/adverts.asp">DMOZ目录免费收录优秀网站</a></div>
+			</div>
+
+		</div>
+</div>
+
+<div class="navbody">
+	<div class="naviGation">
+			当前位置：<a href="http://www.chinadmoz.org/" class="blue">DMOZ目录</a> &gt; <a href="http://www.chinadmoz.org/province/20/">广东</a> > <a href="http://www.chinadmoz.org/city/232/">广州市</a>
+	</div>
+</div>
+
+<link href="http://img.chinadmoz.org/template/default/css/perpage.css" rel="stylesheet" type="text/css">
+
+<div class="blocker clearfix">
+	<div class="maincol">
+	<div class="catesort pb10">
+	
+	<h2 class="contitle">广东(Guangdong)地区目录</h2>	
+	<ul class="boxbd">
+	
+	<li><a href="http://www.chinadmoz.org/city/232/" title="广州市目录下收录4450个网站"><span class=sscat_checkin>广州市(4450)</span></a></li>			
+	
+	<li><a href="http://www.chinadmoz.org/city/233/" title="深圳市目录下收录5063个网站"><span>深圳市(5063)</span></a></li>			
+	
+	<li><a href="http://www.chinadmoz.org/city/234/" title="珠海市目录下收录221个网站"><span>珠海市(221)</span></a></li>			
+	
+	<li><a href="http://www.chinadmoz.org/city/235/" title="汕头市目录下收录148个网站"><span>汕头市(148)</span></a></li>			
+	
+	<li><a href="http://www.chinadmoz.org/city/236/" title="韶关市目录下收录61个网站"><span>韶关市(61)</span></a></li>			
+	
+	<li><a href="http://www.chinadmoz.org/city/237/" title="河源市目录下收录54个网站"><span>河源市(54)</span></a></li>			
+	
+	<li><a href="http://www.chinadmoz.org/city/238/" title="梅州市目录下收录74个网站"><span>梅州市(74)</span></a></li>			
+	
+	<li><a href="http://www.chinadmoz.org/city/239/" title="惠州市目录下收录236个网站"><span>惠州市(236)</span></a></li>			
+	
+	<li><a href="http://www.chinadmoz.org/city/240/" title="汕尾市目录下收录48个网站"><span>汕尾市(48)</span></a></li>			
+	
+	<li><a href="http://www.chinadmoz.org/city/241/" title="东莞市目录下收录1584个网站"><span>东莞市(1584)</span></a></li>			
+	
+	<li><a href="http://www.chinadmoz.org/city/242/" title="中山市目录下收录279个网站"><span>中山市(279)</span></a></li>			
+	
+	<li><a href="http://www.chinadmoz.org/city/243/" title="江门市目录下收录145个网站"><span>江门市(145)</span></a></li>			
+	
+	<li><a href="http://www.chinadmoz.org/city/244/" title="佛山市目录下收录925个网站"><span>佛山市(925)</span></a></li>			
+	
+	<li><a href="http://www.chinadmoz.org/city/245/" title="阳江市目录下收录40个网站"><span>阳江市(40)</span></a></li>			
+	
+	<li><a href="http://www.chinadmoz.org/city/246/" title="湛江市目录下收录83个网站"><span>湛江市(83)</span></a></li>			
+	
+	<li><a href="http://www.chinadmoz.org/city/247/" title="茂名市目录下收录54个网站"><span>茂名市(54)</span></a></li>			
+	
+	<li><a href="http://www.chinadmoz.org/city/248/" title="肇庆市目录下收录71个网站"><span>肇庆市(71)</span></a></li>			
+	
+	<li><a href="http://www.chinadmoz.org/city/249/" title="清远市目录下收录59个网站"><span>清远市(59)</span></a></li>			
+	
+	<li><a href="http://www.chinadmoz.org/city/250/" title="潮州市目录下收录71个网站"><span>潮州市(71)</span></a></li>			
+	
+	<li><a href="http://www.chinadmoz.org/city/251/" title="揭阳市目录下收录62个网站"><span>揭阳市(62)</span></a></li>			
+	
+	<li><a href="http://www.chinadmoz.org/city/252/" title="云浮市目录下收录28个网站"><span>云浮市(28)</span></a></li>			
+	
+	</ul>
+
+	</div>
+		
+	
+	<ul class="tab-sorting">
+		<li class="showHiddenImg">
+		<a href="http://www.chinadmoz.org/city/232/t1/o5/p1/"><font color="green">隐藏缩略图</font></a>
+		
+		</li>
+		<li class="first">排序方式:</li>
+		
+		<li><a href="http://www.chinadmoz.org/city/232/t0/o0/">DMOZRank</a></li>
+		<li class="check"><a href="http://www.chinadmoz.org/city/232/t0/o5/">最新加入</a></li>
+		<li><a href="http://www.chinadmoz.org/city/232/t0/o1/">入站流量</a></li>
+		<li><a href="http://www.chinadmoz.org/city/232/t0/o2/">出站流量</a></li>
+		<li><a href="http://www.chinadmoz.org/city/232/t0/o3/">PageRank</a></li>
+		<li><a href="http://www.chinadmoz.org/city/232/t0/o4/">Alexa排名</a></li>
+		
+	</ul>
+
+	
+	<div class="boxbdlr pt10">
+		
+	</div>
+
+	<ul class="boxbdnopd">
+			
+		<li>
+			
+    		<div class="thumbIMG fl"><a href="http://www.cyysoft.cn" title="访问 车盈易" target="_blank" onClick="chk_stat(116621);"><img src="http://cdn1.chinadmoz.org:8080/2018-05/2443369c784f0639.jpg" onerror="javascript:this.src='/images/no_pic_m.jpg'" width="150" height="100" border="0"></a></div>
+			
+			<div class="listbox">
+			<h4 title="车盈易"><a href="http://www.cyysoft.cn" target="_blank" class="blue" onClick="chk_stat(116621);">车盈易</a> </h4>
+			<p class="description">车盈易是专门针对汽车服务业的特点及需求，实现行业营销平台化运营的系统。其覆盖会员与服务、商品进销存、众筹分红、员工分红、三级推荐和积客券系统等营销解决方案于一体，打造汽车服务业的互联网营销管理平台。</p>
+			<address>
+			www.cyysoft.cn
+			<span class="gray">- 2018-5-18 <a href="http://www.chinadmoz.org/siteinfo/www.cyysoft.cn" class="siteinfo" target="_blank" title="详细信息">详细 <img src="/images/ico/site_info.gif" alt="网站详细信息" width="13" height="13" hspace="3" border="0" align="absmiddle"></a> </span>
+			</address>
+			</div>
+		</li>
+	
+		<li>
+			
+    		<div class="thumbIMG fl"><a href="http://www.huing.net" title="访问 店盈易" target="_blank" onClick="chk_stat(116620);"><img src="http://cdn1.chinadmoz.org:8080/2018-05/6e0cfb3db0307bde.jpg" onerror="javascript:this.src='/images/no_pic_m.jpg'" width="150" height="100" border="0"></a></div>
+			
+			<div class="listbox">
+			<h4 title="店盈易"><a href="http://www.huing.net" target="_blank" class="blue" onClick="chk_stat(116620);">店盈易</a> </h4>
+			<p class="description">店盈易管理软件是覆盖会员管理、消费管理、微信会员卡、微网站、微商城等为一体的会员制营销管理系统，产品将传统的客流设备、视频监控设备、考勤设备等，通过前端设备数据采集，提升为云平台营业智能化管理工具。</p>
+			<address>
+			www.huing.net
+			<span class="gray">- 2018-5-18 <a href="http://www.chinadmoz.org/siteinfo/www.huing.net" class="siteinfo" target="_blank" title="详细信息">详细 <img src="/images/ico/site_info.gif" alt="网站详细信息" width="13" height="13" hspace="3" border="0" align="absmiddle"></a> </span>
+			</address>
+			</div>
+		</li>
+	
+		<li>
+			
+    		<div class="thumbIMG fl"><a href="http://www.zhize8.com" title="访问 岗位职责网" target="_blank" onClick="chk_stat(116573);"><img src="http://cdn1.chinadmoz.org:8080/2018-05/9527a40dfe5ea10d.jpg" onerror="javascript:this.src='/images/no_pic_m.jpg'" width="150" height="100" border="0"></a></div>
+			
+			<div class="listbox">
+			<h4 title="岗位职责网"><a href="http://www.zhize8.com" target="_blank" class="blue" onClick="chk_stat(116573);">岗位职责网</a> </h4>
+			<p class="description">岗位职责大全网提供了各种行业岗位职责说明书，有办公室主任、仓库管理员、总经理助理、业务员、采购员、出纳岗位职责范本，让你即刻学会工作职责怎么写。</p>
+			<address>
+			www.zhize8.com
+			<span class="gray">- 2018-5-16 <a href="http://www.chinadmoz.org/siteinfo/www.zhize8.com" class="siteinfo" target="_blank" title="详细信息">详细 <img src="/images/ico/site_info.gif" alt="网站详细信息" width="13" height="13" hspace="3" border="0" align="absmiddle"></a> </span>
+			</address>
+			</div>
+		</li>
+	
+		<li>
+			
+    		<div class="thumbIMG fl"><a href="http://www.shop-tosun.com" title="访问 桐晖药业" target="_blank" onClick="chk_stat(116495);"><img src="http://cdn1.chinadmoz.org:8080/2018-05/fd0af08544678616.jpg" onerror="javascript:this.src='/images/no_pic_m.jpg'" width="150" height="100" border="0"></a></div>
+			
+			<div class="listbox">
+			<h4 title="桐晖药业"><a href="http://www.shop-tosun.com" target="_blank" class="blue" onClick="chk_stat(116495);">桐晖药业</a> </h4>
+			<p class="description">广州市桐晖药业有限公司是一家符合现代化管理要求的GSP企业(CRO公司)，创立于1999年，为客户提供仿制药一致性评价、临床预BE、I~IV期临床试验、药品注册、生物等效性试验、参比制剂进口等一站式药学研究服务。</p>
+			<address>
+			www.shop-tosun.com
+			<span class="gray">- 2018-5-10 <a href="http://www.chinadmoz.org/siteinfo/www.shop-tosun.com" class="siteinfo" target="_blank" title="详细信息">详细 <img src="/images/ico/site_info.gif" alt="网站详细信息" width="13" height="13" hspace="3" border="0" align="absmiddle"></a> </span>
+			</address>
+			</div>
+		</li>
+	
+		<li>
+			
+    		<div class="thumbIMG fl"><a href="http://www.sanlantan.com" title="访问 撩-张开手，我有个东西要跟你分享" target="_blank" onClick="chk_stat(116402);"><img src="http://cdn1.chinadmoz.org:8080/2018-05/a33535f2dceeab49.jpg" onerror="javascript:this.src='/images/no_pic_m.jpg'" width="150" height="100" border="0"></a></div>
+			
+			<div class="listbox">
+			<h4 title="撩-张开手，我有个东西要跟你分享"><a href="http://www.sanlantan.com" target="_blank" class="blue" onClick="chk_stat(116402);">撩-张开手，我有个东西要跟你分享</a> </h4>
+			<p class="description">为你分享一些撩妹、撩汉套路以及一些恋爱服装搭配技巧,一起看看那些甜到炸的暖心恋爱案例</p>
+			<address>
+			www.sanlantan.com
+			<span class="gray">- 2018-5-4 <a href="http://www.chinadmoz.org/siteinfo/www.sanlantan.com" class="siteinfo" target="_blank" title="详细信息">详细 <img src="/images/ico/site_info.gif" alt="网站详细信息" width="13" height="13" hspace="3" border="0" align="absmiddle"></a> </span>
+			</address>
+			</div>
+		</li>
+	
+		<li>
+			
+    		<div class="thumbIMG fl"><a href="http://www.gzszla.com" title="访问 广州思足啦-广州男子SPA会所" target="_blank" onClick="chk_stat(116364);"><img src="http://cdn1.chinadmoz.org:8080/2018-04/4e3cf7d568575a5b.jpg" onerror="javascript:this.src='/images/no_pic_m.jpg'" width="150" height="100" border="0"></a></div>
+			
+			<div class="listbox">
+			<h4 title="广州思足啦-广州男子SPA会所"><a href="http://www.gzszla.com" target="_blank" class="blue" onClick="chk_stat(116364);">广州思足啦-广州男子SPA会所</a> </h4>
+			<p class="description">广州思足啦（www.gzszla.com）为您推荐优质的广州丝足按摩会所,广州养生会所,广州男子SPA会所,广州休闲会所,广州减压会所等商家信息、电话、地址等,让您快速的了解和选择广州会所！</p>
+			<address>
+			www.gzszla.com
+			<span class="gray">- 2018-4-29 <a href="http://www.chinadmoz.org/siteinfo/www.gzszla.com" class="siteinfo" target="_blank" title="详细信息">详细 <img src="/images/ico/site_info.gif" alt="网站详细信息" width="13" height="13" hspace="3" border="0" align="absmiddle"></a> </span>
+			</address>
+			</div>
+		</li>
+	
+		<li>
+			
+    		<div class="thumbIMG fl"><a href="http://www.zpfangwei.com" title="访问 二维码防伪标签" target="_blank" onClick="chk_stat(116318);"><img src="http://cdn1.chinadmoz.org:8080/2018-04/37c09703741df1a7.jpg" onerror="javascript:this.src='/images/no_pic_m.jpg'" width="150" height="100" border="0"></a></div>
+			
+			<div class="listbox">
+			<h4 title="二维码防伪标签"><a href="http://www.zpfangwei.com" target="_blank" class="blue" onClick="chk_stat(116318);">二维码防伪标签</a> </h4>
+			<p class="description">服务项目：二维码防伪公司、防伪标签印刷、防伪码制作、二维码防伪标签制作、防伪标签设计、磁性防伪标签印刷、不干胶防伪标签印刷</p>
+			<address>
+			www.zpfangwei.com
+			<span class="gray">- 2018-4-26 <a href="http://www.chinadmoz.org/siteinfo/www.zpfangwei.com" class="siteinfo" target="_blank" title="详细信息">详细 <img src="/images/ico/site_info.gif" alt="网站详细信息" width="13" height="13" hspace="3" border="0" align="absmiddle"></a> </span>
+			</address>
+			</div>
+		</li>
+	
+		<li>
+			
+    		<div class="thumbIMG fl"><a href="http://www.gzyzla.com" title="访问 广州月子中心" target="_blank" onClick="chk_stat(116263);"><img src="http://cdn1.chinadmoz.org:8080/2018-04/d2c5487d8deae1ab.jpg" onerror="javascript:this.src='/images/no_pic_m.jpg'" width="150" height="100" border="0"></a></div>
+			
+			<div class="listbox">
+			<h4 title="广州月子中心"><a href="http://www.gzyzla.com" target="_blank" class="blue" onClick="chk_stat(116263);">广州月子中心</a> </h4>
+			<p class="description">广州月子中心哪家好-就上广州月子啦（www.gzyzla.com）为您推荐优质的广州月子会所,广州月子餐配送中心以及广州月子 中心价格表,广州月子会所排名,广州月子餐30天食谱,广州月子会所招聘等信息,是您选择月子中心的最</p>
+			<address>
+			www.gzyzla.com
+			<span class="gray">- 2018-4-22 <a href="http://www.chinadmoz.org/siteinfo/www.gzyzla.com" class="siteinfo" target="_blank" title="详细信息">详细 <img src="/images/ico/site_info.gif" alt="网站详细信息" width="13" height="13" hspace="3" border="0" align="absmiddle"></a> </span>
+			</address>
+			</div>
+		</li>
+	
+		<li>
+			
+    		<div class="thumbIMG fl"><a href="http://gzweizheng.cn" title="访问 伟业板材 伟业牌板材" target="_blank" onClick="chk_stat(116251);"><img src="http://cdn1.chinadmoz.org:8080/2018-04/669c26b106b340ed.jpg" onerror="javascript:this.src='/images/no_pic_m.jpg'" width="150" height="100" border="0"></a></div>
+			
+			<div class="listbox">
+			<h4 title="伟业板材 伟业牌板材"><a href="http://gzweizheng.cn" target="_blank" class="blue" onClick="chk_stat(116251);">伟业板材 伟业牌板材</a> </h4>
+			<p class="description">生态板十大品牌 板材十大品牌 阻燃板十大品牌 伟业板材 伟业牌板材</p>
+			<address>
+			gzweizheng.cn
+			<span class="gray">- 2018-4-19 <a href="http://www.chinadmoz.org/siteinfo/gzweizheng.cn" class="siteinfo" target="_blank" title="详细信息">详细 <img src="/images/ico/site_info.gif" alt="网站详细信息" width="13" height="13" hspace="3" border="0" align="absmiddle"></a> </span>
+			</address>
+			</div>
+		</li>
+	
+		<li>
+			
+    		<div class="thumbIMG fl"><a href="http://www.51gongyilipin.cn" title="访问 智汇行工艺礼品" target="_blank" onClick="chk_stat(116241);"><img src="http://cdn1.chinadmoz.org:8080/2018-04/963309f399e3cff7.jpg" onerror="javascript:this.src='/images/no_pic_m.jpg'" width="150" height="100" border="0"></a></div>
+			
+			<div class="listbox">
+			<h4 title="智汇行工艺礼品"><a href="http://www.51gongyilipin.cn" target="_blank" class="blue" onClick="chk_stat(116241);">智汇行工艺礼品</a> </h4>
+			<p class="description">智汇行礼品是一家集礼品开发、设计、生产、销售为一体的综合性企业。专业为企事业单位开发设计制作各类工艺礼品，广告促销礼品，电子数码礼品，会议礼品，馈赠公关礼品，庆典纪念礼品以及员工福利礼品，皮具箱包，奖</p>
+			<address>
+			www.51gongyilipin.cn
+			<span class="gray">- 2018-4-18 <a href="http://www.chinadmoz.org/siteinfo/www.51gongyilipin.cn" class="siteinfo" target="_blank" title="详细信息">详细 <img src="/images/ico/site_info.gif" alt="网站详细信息" width="13" height="13" hspace="3" border="0" align="absmiddle"></a> </span>
+			</address>
+			</div>
+		</li>
+	
+		<li>
+			
+    		<div class="thumbIMG fl"><a href="http://www.shiyantai168.com" title="访问 禄米实验室家具生产厂家" target="_blank" onClick="chk_stat(116220);"><img src="http://cdn1.chinadmoz.org:8080/2018-04/cb40747234bb4626.jpg" onerror="javascript:this.src='/images/no_pic_m.jpg'" width="150" height="100" border="0"></a></div>
+			
+			<div class="listbox">
+			<h4 title="禄米实验室家具生产厂家"><a href="http://www.shiyantai168.com" target="_blank" class="blue" onClick="chk_stat(116220);">禄米实验室家具生产厂家</a> </h4>
+			<p class="description">生产实验室家具、实验台、通风柜、实验室通风系统，有关实验室行业的设计方案。</p>
+			<address>
+			www.shiyantai168.com
+			<span class="gray">- 2018-4-17 <a href="http://www.chinadmoz.org/siteinfo/www.shiyantai168.com" class="siteinfo" target="_blank" title="详细信息">详细 <img src="/images/ico/site_info.gif" alt="网站详细信息" width="13" height="13" hspace="3" border="0" align="absmiddle"></a> </span>
+			</address>
+			</div>
+		</li>
+	
+		<li>
+			
+    		<div class="thumbIMG fl"><a href="http://www.mangningcha.com" title="访问 芒柠茶官网" target="_blank" onClick="chk_stat(116152);"><img src="http://cdn1.chinadmoz.org:8080/2018-04/bdcbcf9610dd206b.jpg" onerror="javascript:this.src='/images/no_pic_m.jpg'" width="150" height="100" border="0"></a></div>
+			
+			<div class="listbox">
+			<h4 title="芒柠茶官网"><a href="http://www.mangningcha.com" target="_blank" class="blue" onClick="chk_stat(116152);">芒柠茶官网</a> </h4>
+			<p class="description">芒柠茶加盟品牌隶属于广州佰赞餐饮管理有限公司旗下的奶茶加盟品牌。奶茶加盟连锁店覆盖在中高端商务区/学校/社区等。欢迎广大创业者前来咨询芒柠茶加盟品牌。咨询热线：4008-699-690 / 13288819997</p>
+			<address>
+			www.mangningcha.com
+			<span class="gray">- 2018-4-12 <a href="http://www.chinadmoz.org/siteinfo/www.mangningcha.com" class="siteinfo" target="_blank" title="详细信息">详细 <img src="/images/ico/site_info.gif" alt="网站详细信息" width="13" height="13" hspace="3" border="0" align="absmiddle"></a> </span>
+			</address>
+			</div>
+		</li>
+	
+		<li>
+			
+    		<div class="thumbIMG fl"><a href="http://www.naipinjm.com" title="访问 奈品の茶官网" target="_blank" onClick="chk_stat(116150);"><img src="http://cdn1.chinadmoz.org:8080/2018-04/379482a4ce337566.jpg" onerror="javascript:this.src='/images/no_pic_m.jpg'" width="150" height="100" border="0"></a></div>
+			
+			<div class="listbox">
+			<h4 title="奈品の茶官网"><a href="http://www.naipinjm.com" target="_blank" class="blue" onClick="chk_stat(116150);">奈品の茶官网</a> </h4>
+			<p class="description">注重品质与研发的奈品の茶一经面市，便让人倾心，与中国台湾大师一起邂逅有故事的台湾茶，牵手有生命的软欧包。奈品的茶，不断创新，实现奈品の茶加盟局面雨后春笋。真正爱茶叶的人，不仅想冲泡出一杯好茶，也想呈现</p>
+			<address>
+			www.naipinjm.com
+			<span class="gray">- 2018-4-12 <a href="http://www.chinadmoz.org/siteinfo/www.naipinjm.com" class="siteinfo" target="_blank" title="详细信息">详细 <img src="/images/ico/site_info.gif" alt="网站详细信息" width="13" height="13" hspace="3" border="0" align="absmiddle"></a> </span>
+			</address>
+			</div>
+		</li>
+	
+		<li>
+			
+    		<div class="thumbIMG fl"><a href="http://www.gzkezhang.info" title="访问 广州刻章" target="_blank" onClick="chk_stat(116134);"><img src="http://cdn1.chinadmoz.org:8080/2018-04/d56c9a758329f31c.jpg" onerror="javascript:this.src='/images/no_pic_m.jpg'" width="150" height="100" border="0"></a></div>
+			
+			<div class="listbox">
+			<h4 title="广州刻章"><a href="http://www.gzkezhang.info" target="_blank" class="blue" onClick="chk_stat(116134);">广州刻章</a> </h4>
+			<p class="description">广州市辉煌刻章服务中心【刻章电话/微信13401267678】广州刻章公司专业刻公章、电子印章制作、公司logo及各类高难度印章来图定制业务。无需手续、立等可取!!!</p>
+			<address>
+			www.gzkezhang.info
+			<span class="gray">- 2018-4-12 <a href="http://www.chinadmoz.org/siteinfo/www.gzkezhang.info" class="siteinfo" target="_blank" title="详细信息">详细 <img src="/images/ico/site_info.gif" alt="网站详细信息" width="13" height="13" hspace="3" border="0" align="absmiddle"></a> </span>
+			</address>
+			</div>
+		</li>
+	
+		<li>
+			
+    		<div class="thumbIMG fl"><a href="http://www.lisa33xiaoq.net" title="访问 web前端中文站" target="_blank" onClick="chk_stat(116126);"><img src="http://cdn1.chinadmoz.org:8080/2018-04/af15eae333fe6d7a.jpg" onerror="javascript:this.src='/images/no_pic_m.jpg'" width="150" height="100" border="0"></a></div>
+			
+			<div class="listbox">
+			<h4 title="web前端中文站"><a href="http://www.lisa33xiaoq.net" target="_blank" class="blue" onClick="chk_stat(116126);">web前端中文站</a> </h4>
+			<p class="description">专注于web开发,web前端,JavaScript,bootstrap,backbone,CSS,web前端三件宝,SEO优化</p>
+			<address>
+			www.lisa33xiaoq.net
+			<span class="gray">- 2018-4-11 <a href="http://www.chinadmoz.org/siteinfo/www.lisa33xiaoq.net" class="siteinfo" target="_blank" title="详细信息">详细 <img src="/images/ico/site_info.gif" alt="网站详细信息" width="13" height="13" hspace="3" border="0" align="absmiddle"></a> </span>
+			</address>
+			</div>
+		</li>
+	
+		<li>
+			
+    		<div class="thumbIMG fl"><a href="http://www.gzdaily.cc" title="访问 广州日报广告部" target="_blank" onClick="chk_stat(116119);"><img src="http://cdn1.chinadmoz.org:8080/2018-04/cf3011281163626d.jpg" onerror="javascript:this.src='/images/no_pic_m.jpg'" width="150" height="100" border="0"></a></div>
+			
+			<div class="listbox">
+			<h4 title="广州日报广告部"><a href="http://www.gzdaily.cc" target="_blank" class="blue" onClick="chk_stat(116119);">广州日报广告部</a> </h4>
+			<p class="description">广州日报专栏广告分门别类，天天刊出，处处为你想到、做到。丰富精彩的内容，时尚流行的信息，每天为您带来各行业的最新资讯。</p>
+			<address>
+			www.gzdaily.cc
+			<span class="gray">- 2018-4-11 <a href="http://www.chinadmoz.org/siteinfo/www.gzdaily.cc" class="siteinfo" target="_blank" title="详细信息">详细 <img src="/images/ico/site_info.gif" alt="网站详细信息" width="13" height="13" hspace="3" border="0" align="absmiddle"></a> </span>
+			</address>
+			</div>
+		</li>
+	
+		<li>
+			
+    		<div class="thumbIMG fl"><a href="http://www.minihou.com" title="访问 爱宝商城" target="_blank" onClick="chk_stat(116048);"><img src="http://cdn1.chinadmoz.org:8080/2018-04/5dca8f98d806cf1f.jpg" onerror="javascript:this.src='/images/no_pic_m.jpg'" width="150" height="100" border="0"></a></div>
+			
+			<div class="listbox">
+			<h4 title="爱宝商城"><a href="http://www.minihou.com" target="_blank" class="blue" onClick="chk_stat(116048);">爱宝商城</a> </h4>
+			<p class="description">网上商城,办公设备品牌商城,办公设备官方商城,收银机,耗材,打印机,考勤机服务,一站式商业解决方案,方便快捷,享受正品服务体验</p>
+			<address>
+			www.minihou.com
+			<span class="gray">- 2018-4-7 <a href="http://www.chinadmoz.org/siteinfo/www.minihou.com" class="siteinfo" target="_blank" title="详细信息">详细 <img src="/images/ico/site_info.gif" alt="网站详细信息" width="13" height="13" hspace="3" border="0" align="absmiddle"></a> </span>
+			</address>
+			</div>
+		</li>
+	
+		<li>
+			
+    		<div class="thumbIMG fl"><a href="http://www.szamhs.com" title="访问 广州丝足按摩会所" target="_blank" onClick="chk_stat(116032);"><img src="http://cdn1.chinadmoz.org:8080/2018-04/59e1a29551eec848.jpg" onerror="javascript:this.src='/images/no_pic_m.jpg'" width="150" height="100" border="0"></a></div>
+			
+			<div class="listbox">
+			<h4 title="广州丝足按摩会所"><a href="http://www.szamhs.com" target="_blank" class="blue" onClick="chk_stat(116032);">广州丝足按摩会所</a> </h4>
+			<p class="description">广州丝足按摩会所哪里好-广州丝足按摩性价比最高的便民服务平台,广州丝足按摩会所推荐,为您提供广州丝足,广州按摩,广州男士spa会所电话,地址等信息,让您快 速了解和选择广州丝足按摩会所。</p>
+			<address>
+			www.szamhs.com
+			<span class="gray">- 2018-4-4 <a href="http://www.chinadmoz.org/siteinfo/www.szamhs.com" class="siteinfo" target="_blank" title="详细信息">详细 <img src="/images/ico/site_info.gif" alt="网站详细信息" width="13" height="13" hspace="3" border="0" align="absmiddle"></a> </span>
+			</address>
+			</div>
+		</li>
+	
+		<li>
+			
+    		<div class="thumbIMG fl"><a href="http://www.xingyewang.cn" title="访问 兴业网" target="_blank" onClick="chk_stat(115943);"><img src="http://cdn1.chinadmoz.org:8080/2018-03/5a9c72ba3e203d74.jpg" onerror="javascript:this.src='/images/no_pic_m.jpg'" width="150" height="100" border="0"></a></div>
+			
+			<div class="listbox">
+			<h4 title="兴业网"><a href="http://www.xingyewang.cn" target="_blank" class="blue" onClick="chk_stat(115943);">兴业网</a> </h4>
+			<p class="description">店铺转让|淘宝店铺转让|天猫商城转让|网店转让</p>
+			<address>
+			www.xingyewang.cn
+			<span class="gray">- 2018-3-29 <a href="http://www.chinadmoz.org/siteinfo/www.xingyewang.cn" class="siteinfo" target="_blank" title="详细信息">详细 <img src="/images/ico/site_info.gif" alt="网站详细信息" width="13" height="13" hspace="3" border="0" align="absmiddle"></a> </span>
+			</address>
+			</div>
+		</li>
+	
+		<li>
+			
+    		<div class="thumbIMG fl"><a href="http://www.wlyxtg.net" title="访问 四楚网-网络营销推广方案" target="_blank" onClick="chk_stat(115942);"><img src="http://cdn1.chinadmoz.org:8080/2018-03/ab902b353f03bf1d.jpg" onerror="javascript:this.src='/images/no_pic_m.jpg'" width="150" height="100" border="0"></a></div>
+			
+			<div class="listbox">
+			<h4 title="四楚网-网络营销推广方案"><a href="http://www.wlyxtg.net" target="_blank" class="blue" onClick="chk_stat(115942);">四楚网-网络营销推广方案</a> </h4>
+			<p class="description">四楚网——专注网络营销推广行业12年，四楚网是互联网最厉害的网络营销推广机构，四楚网精心为您量身打造您的专属网络营销推广方案以及具体落地操作。四楚网核心网络营销推广方案包含：SEO培训、营销建站、全网推广</p>
+			<address>
+			www.wlyxtg.net
+			<span class="gray">- 2018-3-29 <a href="http://www.chinadmoz.org/siteinfo/www.wlyxtg.net" class="siteinfo" target="_blank" title="详细信息">详细 <img src="/images/ico/site_info.gif" alt="网站详细信息" width="13" height="13" hspace="3" border="0" align="absmiddle"></a> </span>
+			</address>
+			</div>
+		</li>
+	
+	</ul>
+
+	<div class="pb10">
+		
+	</div>
+
+	<div class="pb10">
+		<table><tr><td width=80 height=30 style='font-size:12px;'>共3641条信息</td><td width=60><div class=page-num><a href="http://www.chinadmoz.org/city/232/o5/p1/">第一页</a></div></td><td width=16 align=center><div class=page-num><span class=cur-page><b>1</b></span></div></td><td width=16 align=center><div class=page-num><a href="http://www.chinadmoz.org/city/232/o5/p2/">2</a></div></td><td width=16 align=center><div class=page-num><a href="http://www.chinadmoz.org/city/232/o5/p3/">3</a></div></td><td width=16 align=center><div class=page-num><a href="http://www.chinadmoz.org/city/232/o5/p4/">4</a></div></td><td width=16 align=center><div class=page-num><a href="http://www.chinadmoz.org/city/232/o5/p5/">5</a></div></td><td width=16 align=center><div class=page-num><a href="http://www.chinadmoz.org/city/232/o5/p6/">6</a></div></td><td width=16 align=center><div class=page-num><a href="http://www.chinadmoz.org/city/232/o5/p7/">7</a></div></td><td width=16 align=center><div class=page-num><a href="http://www.chinadmoz.org/city/232/o5/p8/">8</a></div></td><td width=16 align=center><div class=page-num><a href="http://www.chinadmoz.org/city/232/o5/p9/">9</a></div></td><td width=16 align=center><div class=page-num><a href="http://www.chinadmoz.org/city/232/o5/p10/">10</a></div></td><td width=60 align=center><div class=page-num> ... <a href="http://www.chinadmoz.org/city/232/o5/p183/"> 183 </div></td><td width=80 align=center><div class=page-num><a href="http://www.chinadmoz.org/city/232/o5/p183/">最后一页</a></div></td></tr></table>
+	</div>
+	
+
+	<div class="list-btm">
+		
+<a class="btn-12529" href="/user/addweb.asp"><span><img class="ico1616 imgva" src="/template/default/images/ico-edit.png">免费提交网站</span></a>
+				<a href="/user/register.asp"><img class="ico1616 imgva" src="/template/default/images/user_16x16.png">注册会员</a> | <a href="/help/addsuggest.asp"><img class="ico1616 imgva" src="/template/default/images/wallet_16x16.png">意见反馈</a>
+
+	</div>
+
+	</div>
+	<div class="sidebar">
+		
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr><td colspan=2>
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-9761122628191004";
+/* dmoz_300_250 */
+google_ad_slot = "4027812682";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</td></tr>
+</table>
+
+<div>
+<h2 class="contitle"><a href="/help/Adverts.asp" title="如何加入到这里?" target="_blank">快速链接</a></h2>
+<ul class="boxbd advertextthird">
+
+	<li><a href="http://www.cdmoz.com" title="访问 CDMOZ开放分类目录" onclick="Adclick_stat(1079);" target="_blank">CDMOZ开放分类目录</a><span class="greendomainthird">www.cdmoz.com</span></li>
+
+	<li><a href="http://www.43626.cn/" title="访问 玩游戏赚钱" onclick="Adclick_stat(1265);" target="_blank">玩游戏赚钱</a><span class="greendomainthird">www.43626.cn/</span></li>
+
+	<li><a href="http://www.fqclsb.com" title="访问 废气处理设备" onclick="Adclick_stat(1271);" target="_blank">废气处理设备</a><span class="greendomainthird">www.fqclsb.com</span></li>
+
+	<li><a href="http://shengri.li63.com" title="访问 生日礼物送什么好" onclick="Adclick_stat(1272);" target="_blank">生日礼物送什么好</a><span class="greendomainthird">shengri.li63.com</span></li>
+
+	<li><a href="http://www.mm400.com" title="访问 400电话" onclick="Adclick_stat(1274);" target="_blank">400电话</a><span class="greendomainthird">www.mm400.com</span></li>
+
+	<li><a href="https://www.0zo.com" title="访问 蜜蜡" onclick="Adclick_stat(1281);" target="_blank">蜜蜡</a><span class="greendomainthird"></span></li>
+
+	<li><a href="https://www.52hpl.com" title="访问 财务自由" onclick="Adclick_stat(1292);" target="_blank">财务自由</a><span class="greendomainthird"></span></li>
+
+	<li><a href="http://xinwen.lianzhongyun.com" title="访问 软文发布平台" onclick="Adclick_stat(1295);" target="_blank">软文发布平台</a><span class="greendomainthird">xinwen.lianzhongyun.com</span></li>
+
+	<li><a href="http://cnyuheng.net/" title="访问 tutorabc" onclick="Adclick_stat(1297);" target="_blank">tutorabc</a><span class="greendomainthird">cnyuheng.net/</span></li>
+
+</ul>
+</div>
+
+        <div class="fixad">
+        
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tr><td colspan=2>
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-9761122628191004";
+/* dmoz_160_600 */
+google_ad_slot = "3026809066";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</td></tr>
+</table>
+
+        </div>
+	</div>
+</div>
+<div class="footer">
+	<dl>
+		<dt><img alt="" src="/images/logo_bottom.jpg" /> </dt>
+		<dd>
+			<h3>DMOZ目录 优秀网站目录分享网站价值</h3>
+		</dd>
+		<dd>
+			<a href="/user/addweb.asp">提交网址</a> | <a href="http://123.chinadmoz.org" target="_blank">网址大全</a> | <a href="/help/aboutdmoz.asp">关于DMOZ目录</A> | <a href="/help/contactus.asp">联系我们</A> | <a href="/help/">帮助中心</a> | <a href="/help/privacy.asp">隐私声明</a> | <a href="/help/adverts.asp">广告服务</a>
+		</dd>
+		<dd>
+			Copyright &copy; 2010-2018&nbsp;&nbsp;DMOZ目录 <a href="http://www.chinadmoz.org/" target="_blank">www.chinadmoz.org</a> 提供中文网站目录DMOZ目录网站提交,网站收录,网址大全
+		</dd>
+		<dd>
+			Powered by <a href="http://www.cdmoz.org/"  title="CDMOZ分类目录商业版授权" target="_blank"><b>CDMOZ <font style="color:#FF9900">v4.5</font></b></a> <script src='http://s17.cnzz.com/stat.php?id=2433536&web_id=2433536&show=pic' language='JavaScript'></script>
+		</dd>
+	</dl>
+</div>
+<script type="text/javascript">
+//$(document).ready(function(e) {			
+//	var ttop = $('.fixad').offset().top;
+//    var mhtop = $('.maincol').top;
+//	var mh = $('.maincol').height();
+//	var fh = $('.fixad').height();
+//	$(window).scroll(function(e){
+//		var sdtop = $(document).scrollTop();	
+//		if(sdtop > ttop - 10){
+//			$('.fixad').css('position','fixed');
+//			if(sdtop + fh > mh){
+//				$('.fixad').css('top',mh-sdtop-fh+'px');	
+//			}				
+//		}else{
+//			$('.fixad').css('position','');
+//		}
+//	})
+//});
+</script>
+</body>
+</html>
